@@ -77,7 +77,7 @@ const getProducts = () => {
 
 ## 🎥 Demo
 
-![API Basics Demo](media/api-basic.gif)
+<img src="media/api-basic.gif" width="100%" alt="API Basics Demo">
 
 ## 📚 Future Reference
 
